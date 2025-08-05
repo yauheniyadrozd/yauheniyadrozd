@@ -3,9 +3,10 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yauheniyadrozd" alt="yauheniyadrozd" /></a> </p>
 
-- 🔭 I’m currently working on **Sudoku solver**
+- 🧭 I’m currently working on **Sudoku solver**
 
-- 🌱 I’m currently learning **- **Advanced Machine Learning**: Transformers, LLM fine-tuning (HuggingFace)
+- 🌱👩‍🎓 I’m currently learning:
+  - **Advanced Machine Learning**: Transformers, LLM fine-tuning (HuggingFace)
   - **Big Data Tools**: Apache Spark optimization, Delta Lake
   - **Cloud Engineering**: AWS/GCP data pipelines (Glue, BigQuery)
   - **Mobile Dev**: Jetpack Compose for Android (for my Sudoku Solver app)
