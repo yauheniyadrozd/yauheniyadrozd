@@ -3,16 +3,16 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yauheniyadrozd" alt="yauheniyadrozd" /></a> </p>
 
-- 🧭 I’m currently working on **Sudoku solver**
+🧭 I’m currently working on **Sudoku solver**
 
-- 🌱👩‍🎓 I’m currently learning:
+🌱👩‍🎓 I’m currently learning:
   - **Advanced Machine Learning**: Transformers, LLM fine-tuning (HuggingFace)
   - **Big Data Tools**: Apache Spark optimization, Delta Lake
   - **Cloud Engineering**: AWS/GCP data pipelines (Glue, BigQuery)
   - **Mobile Dev**: Jetpack Compose for Android (for my Sudoku Solver app)
   - **Algorithm Design**: Advanced graph algorithms (Dijkstra, A*)**
 
-- ⚡ Fun fact **I think i will succeed in life.**
+  ⚡ *Fun fact I think i will succeed in life.*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
