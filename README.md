@@ -5,7 +5,11 @@
 
 - 🔭 I’m currently working on **Sudoku solver**
 
-- 🌱 I’m currently learning **- **Advanced Machine Learning**: Transformers, LLM fine-tuning (HuggingFace) - **Big Data Tools**: Apache Spark optimization, Delta Lake - **Cloud Engineering**: AWS/GCP data pipelines (Glue, BigQuery) - **Mobile Dev**: Jetpack Compose for Android (for my Sudoku Solver app) - **Algorithm Design**: Advanced graph algorithms (Dijkstra, A*)**
+- 🌱 I’m currently learning **- **Advanced Machine Learning**: Transformers, LLM fine-tuning (HuggingFace)
+  - **Big Data Tools**: Apache Spark optimization, Delta Lake
+  - **Cloud Engineering**: AWS/GCP data pipelines (Glue, BigQuery)
+  - **Mobile Dev**: Jetpack Compose for Android (for my Sudoku Solver app)
+  - **Algorithm Design**: Advanced graph algorithms (Dijkstra, A*)**
 
 - ⚡ Fun fact **I think i will succeed in life.**
 
