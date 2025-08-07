@@ -20,7 +20,7 @@
 <a href="https://instagram.com/jane.drozd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jane.drozd" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">🚀 My Tech Stack</h3>
+<h2 align="left">🚀 My Tech Stack</h2>
 
 <p align="left">
   <!-- Programming Languages -->
@@ -28,7 +28,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="45" height="45"/>
   </a>
   
-  <!-- Data Science -->
+  ## Data Science
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="45" height="45"/>
   </a>
@@ -39,12 +39,12 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="45" height="45"/>
   </a>
 
-  <!-- Optimization -->
+  ## Optimization
   <a href="https://www.ibm.com/analytics/cplex-optimizer" target="_blank" rel="noreferrer">
     <img src="https://www.ibm.com/blogs/research/wp-content/uploads/2019/12/IBM-CPLEX-Logo.png" alt="cplex" width="45" height="45"/>
   </a>
 
-  <!-- Databases & SQL -->
+  ## Databases & SQL
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="45" height="45"/>
   </a>
@@ -58,10 +58,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="sql" width="45" height="45"/>
   </a>
 
-  <!-- Tools -->
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="45" height="45"/>
-  </a>
+  ## Tools
   <a href="https://jupyter.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="45" height="45"/>
   </a>
