@@ -39,11 +39,6 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="45" height="45"/>
   </a>
 
-  ## Optimization
-  <a href="https://www.ibm.com/analytics/cplex-optimizer" target="_blank" rel="noreferrer">
-    <img src="https://www.ibm.com/blogs/research/wp-content/uploads/2019/12/IBM-CPLEX-Logo.png" alt="cplex" width="45" height="45"/>
-  </a>
-
   ## Databases & SQL
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="45" height="45"/>
