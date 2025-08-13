@@ -2,8 +2,6 @@
 <h3 align="center">🚀 Data & Systems Engineering Student | ML Enthusiast | Optimization Explorer</h3>
 
 
-🧭 I’m currently working on **Sudoku solver**
-
 🌱👩‍🎓 I’m currently learning:
   - **Advanced Machine Learning**: Transformers, LLM fine-tuning (HuggingFace)
   - **Big Data Tools**: Apache Spark optimization, Delta Lake
