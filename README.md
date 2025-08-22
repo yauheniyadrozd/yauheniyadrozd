@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Yauheniya</h1>
 <h3 align="center">🚀 Data & Systems Engineering Student | ML Enthusiast | Optimization Explorer</h3>
 
-<h2>Check my portfolio: https://yauheniyadrozd.github.io/ </h2>
+<h2 align="center">Check my portfolio: https://yauheniyadrozd.github.io/ </h2>
+
+
 🌱👩‍🎓 I’m currently learning:
   - **Advanced Machine Learning**: Transformers, LLM fine-tuning (HuggingFace)
   - **Big Data Tools**: Apache Spark optimization, Delta Lake
