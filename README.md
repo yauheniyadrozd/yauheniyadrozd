@@ -80,9 +80,3 @@ A Flask REST API that analyzes Python code quality and provides actionable feedb
     <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="45" height="45"/>
   </a>
 </p>
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YauheniyaDrozd&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
