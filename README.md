@@ -5,7 +5,6 @@
 🌱👩‍🎓 I'm currently learning:
   - **Advanced Machine Learning**: Transformers, LLM fine-tuning (HuggingFace)
   - **Big Data Tools**: Apache Spark optimization, Delta Lake
-  - **Cloud Engineering**: AWS/GCP data pipelines (BigQuery)
   - **Algorithm Design**: Advanced graph algorithms (Dijkstra, A*)
   - **Backend Development**: Flask REST APIs, PostgreSQL/SQLite, Docker
 
