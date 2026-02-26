@@ -2,12 +2,8 @@
 <h3 align="center">🚀 Data & Systems Engineering Student | ML Enthusiast | Backend Developer</h3>
 <h2 align="center">Check my site-portfolio: https://yauheniyadrozd.github.io/ </h2>
 
-🌱👩‍🎓 I'm currently learning:
-  - **Advanced Machine Learning**: Transformers, LLM fine-tuning (HuggingFace)
-  - **Big Data Tools**: Apache Spark optimization, Delta Lake
-  - **Algorithm Design**: Advanced graph algorithms (Dijkstra, A*)
-  - **Backend Development**: Flask REST APIs, PostgreSQL/SQLite, Docker
-
+🌱👩‍🎓 I'm currently:
+  - Solving Leetcode problems
 ⚡ *Fun fact: I think I will succeed in life.*
 
 ---
