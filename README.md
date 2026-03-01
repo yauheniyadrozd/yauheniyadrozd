@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Yauheniya</h1>
-<h3 align="center">🚀 Data & Systems Engineering Student | ML Enthusiast | Backend Developer</h3>
+<h3 align="center">🚀 Data & Systems Engineering Student | ML Enthusiast </h3>
 <h2 align="center">Check my site-portfolio: https://yauheniyadrozd.github.io/ </h2>
 
 🌱👩‍🎓 I'm currently:
   - Solving Leetcode problems
 ⚡ *Fun fact: I think I will succeed in life.*
-
----
+Я делаю очень много разных вещей, но всё равно возвращаюсь к пайтону, машинному обучению и дата инжинерии.
+--- 
 
 ## 🔥 Recent Projects
 
