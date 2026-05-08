@@ -25,7 +25,6 @@ A Flask REST API that analyzes Python code quality and provides actionable feedb
 <a href="https://instagram.com/jane.drozd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jane.drozd" height="30" width="40" /></a>
 </p>
 
-```html
 <h2 align="left">🚀 Tech Stack</h2>
 
 <h3 align="left">Languages</h3>
