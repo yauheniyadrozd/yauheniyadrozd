@@ -39,8 +39,10 @@ A Flask REST API that analyzes Python code quality and provides actionable feedb
 
 <h3 align="left">Data & Analytics</h3>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=pandas,numpy" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="45" height="45"/>
 </p>
+
 
 <h3 align="left">Backend & Databases</h3>
 <p align="left">
@@ -56,6 +58,6 @@ A Flask REST API that analyzes Python code quality and provides actionable feedb
 <p align="left">
   <img src="https://skillicons.dev/icons?i=matlab" />
 </p>
-```
+
 
 </p>
