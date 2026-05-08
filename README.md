@@ -25,53 +25,38 @@ A Flask REST API that analyzes Python code quality and provides actionable feedb
 <a href="https://instagram.com/jane.drozd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jane.drozd" height="30" width="40" /></a>
 </p>
 
-<h2 align="left">🚀 My Tech Stack</h2>
+```html
+<h2 align="left">🚀 Tech Stack</h2>
 
-### Programming Languages
+<h3 align="left">Languages</h3>
 <p align="left">
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="45" height="45"/>
-  </a>
+  <img src="https://skillicons.dev/icons?i=python" />
 </p>
 
-### Data Science & ML
+<h3 align="left">Data Science & ML</h3>
 <p align="left">
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="45" height="45"/>
-  </a>
-  <a href="https://numpy.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="45" height="45"/>
-  </a>
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="45" height="45"/>
-  </a>
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn" />
 </p>
 
-### Backend & Databases
+<h3 align="left">Data & Analytics</h3>
 <p align="left">
-  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="flask" width="45" height="45"/>
-  </a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="45" height="45"/>
-  </a>
-  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="45" height="45"/>
-  </a>
+  <img src="https://skillicons.dev/icons?i=pandas,numpy" />
 </p>
 
-### DevOps & Tools
+<h3 align="left">Backend & Databases</h3>
 <p align="left">
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="45" height="45"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="45" height="45"/>
-  </a>
-  <a href="https://jupyter.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="45" height="45"/>
-  </a>
-  <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="45" height="45"/>
-  </a>
+  <img src="https://skillicons.dev/icons?i=flask,postgresql,sqlite" />
+</p>
+
+<h3 align="left">DevOps & Tools</h3>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=docker,git,github,vscode" />
+</p>
+
+<h3 align="left">Other Tools</h3>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=matlab" />
+</p>
+```
+
 </p>
